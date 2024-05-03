@@ -1,0 +1,15 @@
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\bin\Debug\net6.0\prgo2.exe
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\bin\Debug\net6.0\prgo2.deps.json
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\bin\Debug\net6.0\prgo2.runtimeconfig.json
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\bin\Debug\net6.0\prgo2.dll
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\bin\Debug\net6.0\prgo2.pdb
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.csproj.AssemblyReference.cache
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.AssemblyInfoInputs.cache
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.AssemblyInfo.cs
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.csproj.CoreCompileInputs.cache
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.dll
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\refint\prgo2.dll
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.pdb
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\prgo2.genruntimeconfig.cache
+c:\Users\batkhuslen.boldbaat\Documents\progammering\prgo2\prgo2\obj\Debug\net6.0\ref\prgo2.dll
